@@ -7,7 +7,7 @@ My name is William, I'm 22 years old, and I am from Canada. My native languages 
 # Experience
 
 - **10 years of Java**  
-  - Minecraft mod writing  
+  - Minecraft mods writing  
   - RuneScape Private Server botting, hosting, and scripting  
   - RuneScape gold farming bot development  
 
@@ -36,4 +36,16 @@ My name is William, I'm 22 years old, and I am from Canada. My native languages 
 
 # Projects Demonstration
 
-(Include your projects here, with links, descriptions, and images if possible.)
+## 🎮 ALONE Features Showcase  
+[![ALONE Features Showcase](https://img.youtube.com/vi/OTQA1Nh_ehM/0.jpg)](https://www.youtube.com/watch?v=OTQA1Nh_ehM)  
+*[Click the image to watch the video]*  
+
+---
+
+## 🎮 ALONE Action Showcase  
+[![ALONE Action Showcase](https://img.youtube.com/vi/bFQ9cUBM-6Y/0.jpg)](https://www.youtube.com/watch?v=bFQ9cUBM-6Y)  
+*[Click the image to watch the video]*  
+
+---
+
+(More projects and details can be added here.)
