@@ -4,7 +4,7 @@
 
 # Experience
 
-  10 years of Java (Minecraft mods writing, RuneScape Private Servers botting, hosting and writing, RuneScape gold farming bots writing)
+  10 years of Java (Minecraft mods writing, RuneScape Private Servers botting, hosting and writing, RuneScape gold farming bots writing)\n
   3 years of Python (Generalized, but mostly for servers and macros)
   3 years of C#
   3 years of Unity Engine Development
