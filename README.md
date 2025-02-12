@@ -48,4 +48,8 @@ My name is William, I'm 22 years old, and I am from Canada. My native languages 
 
 ---
 
-(More projects and details can be added here.)
+# 📬 Contacts
+
+You can ask me questions and reach out to me via email:  
+📧 [williamleblanc@yahoo.ca](mailto:williamleblanc@yahoo.ca)
+
