@@ -8,7 +8,7 @@ My name is William, I'm 22 years old, and I am from Canada. My native languages 
 
 - **10 years of Java**  
   - Minecraft mods writing  
-  - RuneScape Private Server botting, hosting, and scripting  
+  - RuneScape Private Servers botting, hosting, and scripting  
   - RuneScape gold farming bot development  
 
 - **3 years of Python**  
